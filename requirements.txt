@@ -1,1 +1,7 @@
-
+streamlit
+langgraph
+google-genai
+scikit-learn
+pandas
+numpy
+pydantic
